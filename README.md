@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Partha Sarathi Nayak
 
-### Full Stack Developer
+### Frontend Developer
 
-Enthusiastic Full Stack Developer, eager to contribute to team success through hard work, attention
+Enthusiastic Frontend Developer, eager to contribute to team success through hard work, attention
 to detail and excellent organizational skills. Goal-oriented; brings strong commitment to
 collaboration and solutions-oriented problem-solving. Use various web design packages to develop
 custom-crafted, customer-focused websites and designs. Committed to high standards of user
